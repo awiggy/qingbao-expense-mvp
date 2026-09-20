@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/
+.env
+.env.local
+.DS_Store
+bin/
+tmp/
+
+# Local secrets and runtime artifacts
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.log
