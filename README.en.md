@@ -61,8 +61,8 @@ npm run build
 npm start
 ```
 
-- Expense application: <http://127.0.0.1:3100/>
-- AI configuration and testing: <http://127.0.0.1:3100/agent>
+- Expense application demo URL: to be added after deployment
+- AI configuration and testing demo URL: to be added after deployment
 
 The first launch creates a local database with TEST demo data. No external database or model key is required. For development, use `npm run dev`.
 
